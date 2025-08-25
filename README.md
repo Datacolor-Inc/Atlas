@@ -8,7 +8,7 @@
 
 As enterprises adopt AI agents at scale, the challenge is less about core LLM capabilities and more about securely, reliably, and efficiently integrating agents with business systems like **SAP, Salesforce, and Informatica**.  
 
-**Datacolor Atlas** addresses this “last mile” need by providing a consistent and reusable way to build, orchestrate, and deploy agentic workflows across diverse environments.
+**Datacolor Atlas** addresses this **“last mile”** need by providing a **consistent and reusable way to build, orchestrate, and deploy agentic workflows** across diverse environments.
 
 ---
 
