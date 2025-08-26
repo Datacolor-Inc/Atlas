@@ -1,4 +1,4 @@
-# MCP Server
+# Atlas MCP Server
 
 A minimal, clean template for building Model Context Protocol (MCP) servers that integrate with external services. This template demonstrates the core patterns and structure without the complexity of actual service connections.
 
