@@ -1,4 +1,4 @@
-# Agent Runtime SDK
+# Atlas Agent Runtime SDK
 
 ## Purpose-Built Simplicity. Enterprise-Grade Intelligence.
 
