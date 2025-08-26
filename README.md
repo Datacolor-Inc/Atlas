@@ -2,7 +2,6 @@
 
 **Datacolor Atlas** – our framework for accelerating enterprise-grade AI agent development.
 
----
 
 ## Why
 
@@ -10,21 +9,20 @@ As enterprises adopt AI agents at scale, the challenge is less about core LLM ca
 
 **Datacolor Atlas** addresses this **“last mile”** need by providing a **consistent and reusable way to build, orchestrate, and deploy agentic workflows** across diverse environments.
 
----
 
 ## What
 
 Datacolor Atlas is a **modular framework of reusable components** and its key components include
 
 - **Agent Runtime SDK** – Lightweight libraries to bootstrap conversational or autonomous agents.  
-- **MCP Server Kit** – Templates to stand up MCP servers on any hyperscaler, with automation for tool and tool-definition onboarding.  
-- **Tool & Tool Definition Library** – A library to rapidly define/deploy tools and standardize request/response formats across integration points.  
+- **[MCP Server Kit](mcp-server/README.md)** – Templates to stand up MCP servers on any hyperscaler, with automation for tool and tool-definition onboarding.  
+- **Tool & Tool Definition Library (coming soon)** – A library to rapidly define/deploy tools and standardize request/response formats across integration points. 
+- **[DocuAssist](docuassist/README.md)** - **AI Document Intelligence Solution Accelerator** that revolutionizes how organizations manage, process, and gain insights from unstructured document data.  
 
 These components have already proven integral in enabling workflows that **read, write, and trigger actions** in many business-critical applications like SAP, Salesforce, Informatica, Atlassian, etc..
 
 This framework complements—rather than replaces—open-source agent frameworks such as **LangChain** or **Strand**.  
 
----
 
 ## How This Helps Us
 
@@ -43,4 +41,3 @@ This portability ensures:
 - 🔒 **Reliable and secure orchestration** across enterprise applications  
 - 📈 **Scalable adoption** that meets enterprise-grade standards  
 
----
