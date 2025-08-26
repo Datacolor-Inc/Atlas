@@ -14,7 +14,7 @@ As enterprises adopt AI agents at scale, the challenge is less about core LLM ca
 
 Datacolor Atlas is a **modular framework of reusable components** and its key components include
 
-- **Agent Runtime SDK** – Lightweight libraries to bootstrap conversational or autonomous agents.  
+- **[Agent Runtime SDK](ai-framework/README.md)** – Lightweight libraries to bootstrap conversational or autonomous agents.  
 - **[MCP Server Kit](mcp-server/README.md)** – Templates to stand up MCP servers on any hyperscaler, with automation for tool and tool-definition onboarding.  
 - **Tool & Tool Definition Library (coming soon)** – A library to rapidly define/deploy tools and standardize request/response formats across integration points. 
 - **[DocuAssist](docuassist/README.md)** - **AI Document Intelligence Solution Accelerator** that revolutionizes how organizations manage, process, and gain insights from unstructured document data.  
